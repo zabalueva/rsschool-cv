@@ -1,2 +1,2 @@
 # rsschool-cv
-RS2021Q1
+https://zabalueva.github.io/rsschool-cv/cv
