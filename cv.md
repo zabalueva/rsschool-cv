@@ -26,7 +26,7 @@ function handleKeyPress(e) {
 My graduate work for company Orion Innovation after courses  
 [Project NewYear2021](https://zabalueva.github.io/react_first/)
 
-[Code ](https://zabalueva.github.io/react_first/)
+[Code ](https://github.com/zabalueva/react_first)
 
 ## Higher education 
 **Nizhny Novgorod State Technical University'2010**   
