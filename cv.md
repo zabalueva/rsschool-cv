@@ -15,12 +15,10 @@ HTML5, CSS3, SCSS, БЭМ, JavaScript (ES6), ReactJS, Webpack, Git, VS Code
 
 ## Example of my code
 ```
-function addCircle(e) {
-    setCircles(
-        [...circles, 
-        { coordX: e.pageX, coordY: e.pageY, id: circles.length }
-        ]
-    )
+function handleKeyPress(e) {
+    if (e.key === 'Enter') {
+        giveData();
+    }
 }
 ```
 
