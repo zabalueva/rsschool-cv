@@ -31,17 +31,17 @@ My graduate work for company Orion Innovation after courses
 [Code ](https://zabalueva.github.io/react_first/)
 
 ## Higher education 
-Nizhny Novgorod State Technical University'2010   
+**Nizhny Novgorod State Technical University'2010**   
 Public Relations 
 
-Nizhny Novgorod State Technical University'2021  
+**Nizhny Novgorod State Technical University'2021**  
 Radio Engineering  
 
 ## Сourses
-HTMLACADEMY'2020  
+**HTMLACADEMY'2020**  
 "HTML and CSS"
 
-Orion Innovation'2021  
+**Orion Innovation'2021**  
 "Web-development JavaScript"
 
 ## Languages
