@@ -13,15 +13,6 @@ I want to work at EPAM. Corporate culture, professional growth of employees, ope
 ## Key skills
 HTML5, CSS3, SCSS, БЭМ, JavaScript (ES6), ReactJS, Webpack, Git, VS Code
 
-## Example of my code
-```
-function handleKeyPress(e) {
-    if (e.key === 'Enter') {
-        giveData();
-    }
-}
-```
-
 ## Experience
 My graduate work for company Orion Innovation after courses  
 [Project NewYear2021](https://zabalueva.github.io/react_first/)
@@ -45,3 +36,12 @@ Radio Engineering
 ## Languages
 Russian — Native  
 English — B1 — Intermediate
+
+## Example of my code
+```
+function handleKeyPress(e) {
+    if (e.key === 'Enter') {
+        giveData();
+    }
+}
+```
