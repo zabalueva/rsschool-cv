@@ -60,3 +60,26 @@ $color_lighter: #e1dbff;
     max-width: 25%;
     clip-path: circle(50% at 50% 50%);
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: $color_hard;
+
+    &__social {       
+        display: flex;
+        padding-left: 0px;
+        list-style-type: none;
+    }
+    &__link {
+        margin-left: 0.5em;
+        text-decoration: none;
+        font-size: 2rem;
+        color: $color_light;
+    }
+
+    &__contacts {
+        font-weight: 600;
+    }
+}
