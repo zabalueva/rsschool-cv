@@ -7,6 +7,15 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.container__wrap {
+  margin: 0 auto;
+}
+
+.section {
+  display: flex;
+  align-items: center;
+}
+
 .header {
   display: grid;
   grid-area: 1 / 1 / 1/ 6;
@@ -59,6 +68,9 @@
   justify-content: space-between;
   align-items: center;
   color: #2d2555;
+  /* &__contacts {
+        font-weight: 600;
+    } */
 }
 
 .footer__social {
@@ -72,8 +84,4 @@
   text-decoration: none;
   font-size: 2rem;
   color: #c2b7ff;
-}
-
-.footer__contacts {
-  font-weight: 600;
 }

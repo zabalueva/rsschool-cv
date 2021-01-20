@@ -10,7 +10,16 @@ $color_lighter: #e1dbff;
     min-width: 600px;
     font-size: 1.5em;
     font-family: Arial, Helvetica, sans-serif;
+
+    &__wrap {
+        margin: 0 auto;
+        }
 }
+
+.section {
+    display: flex;
+    align-items: center;
+    }
 
 .header { 
     display: grid;
@@ -49,9 +58,7 @@ $color_lighter: #e1dbff;
         color: $color_hard;
     }
 
-    &__item-active:hover {
-        color:$color_light;
-    }
+    &__item-active:hover { color:$color_light; }
 }
 
 .foto {
@@ -78,8 +85,7 @@ $color_lighter: #e1dbff;
         font-size: 2rem;
         color: $color_light;
     }
-
-    &__contacts {
+    /* &__contacts {
         font-weight: 600;
-    }
+    } */
 }
