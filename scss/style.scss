@@ -1,0 +1,18 @@
+$color_hard:#2d2555;
+$color_harder: #1f1a3b;
+$color_light:#c2b7ff;
+$color_lighter: #e1dbff;
+
+.container {
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1400px;
+    min-width: 600px;
+    margin: 0 auto;
+    padding: 0 0;
+}
+
+.foto {
+    max-width: 25%;
+    clip-path: circle(50% at 50% 50%);
+}
