@@ -77,7 +77,28 @@ $color_lighter: #e1dbff;
         font-size: 2rem;
         color: $color_light;
     }
+
+    &__rss {
+       display: flex;
+       justify-content: space-between;
+       align-content: center;
+    }
+
+
+
     /* &__contacts {
         font-weight: 600;
     } */
+}
+
+.rss{
+    &__logo {
+        width: 100px;
+        height: 100px;
+    }
+
+    &__year {
+        font-size: 1rem;
+        color: $color_hard;
+    }
 }
